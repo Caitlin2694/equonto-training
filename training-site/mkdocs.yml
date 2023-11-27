@@ -1,4 +1,5 @@
 site_name: Industrial Ontology Training
+site_url: https://ontology_training.github.io
 theme:
     name: material
     logo: images/nlp_logo.png
