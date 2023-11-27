@@ -1,0 +1,15 @@
+site_name: Industrial Ontology Training
+theme:
+    name: material
+    logo: images/nlp_logo.png
+    favicon: images/nlp_logo.png
+    features: 
+    - navigation.footer
+extra:
+  social:
+    - icon: octicons/globe-16
+      link: https://nlp-tlp.org/
+nav:
+    - Home: index.md 
+    - Training Resources: existing_training.md 
+
